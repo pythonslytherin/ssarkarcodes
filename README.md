@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pythonslytherin!
-- 👀 I’m interested in coding, math, and robotics! And like millions of other things that I can't fit here :D
-- 🌱 I’m currently completing CS50's new Python course!
+- 👀 I love to create things whether it's making music, coding, or writing stories. My favorite subjects are math and science!
+- 🧑🏽‍💻 I have completed CS50x and CS50P 
 
 <!---
 pythonslytherin/pythonslytherin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
