@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ssarkarcodes!
-- 👀 I love to create things whether it's making music, coding, or writing stories. My favorite subjects are math and science!
-- 🧑🏽‍💻 I am currently working on CS50 AI with Python!
-
+- 👋 Hi, I’m Shayari Sarkar!
+- 👀 I love to create things whether it's making music, coding, or writing stories. My favorite subjects are math and science.
+- 🚀 I hope to work as an engineer, particularly with aerospace/aeronautical technologies.
+- 🧑🏽‍💻 I am currently working on CS50 AI with Python.
+- 💻 Check out some of my work here ⬇️
